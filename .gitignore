@@ -26,3 +26,4 @@ past/
 private
 .blade
 .npm-cache
+flow-testing/
